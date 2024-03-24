@@ -60,20 +60,6 @@ library(tidyverse)
     ✖ dplyr::lag()          masks stats::lag()
     ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
 
-### Вход по ssh в RStudio Server
-
-Выполняем вход по ssh, используя user67
-
--   
-
-Меняем пароль
-
--   
-
-Входим в RStudio Server под пользователем user67
-
--   
-
 ### Доступ к датасету
 
 ``` r
