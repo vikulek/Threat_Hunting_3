@@ -25,20 +25,6 @@ library(dplyr)
 library(tidyverse)
 ```
 
-### Вход по ssh в RStudio Server
-
-Выполняем вход по ssh, используя user67
-
--
-
-Меняем пароль
-
--
-
-Входим в RStudio Server под пользователем user67
-
--
-
 ### Доступ к датасету
 
 ```{r}
