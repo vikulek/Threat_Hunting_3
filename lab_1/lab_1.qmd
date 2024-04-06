@@ -55,13 +55,24 @@ Yandex Query -- это облачное решение для анализа д�
 
 ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_6.jpg)
 
+```{r}
+sprintf("Задание выполнено!")
+```
+
 2. Определите суммарный объем исходящего трафика
 
 ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_7.jpg)
 
+```{r}
+sprintf("Задание выполнено!")
+```
 3. пределите суммарный объем входящего трафика
 
 ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_8.jpg)
+
+```{r}
+sprintf("Задание выполнено!")
+```
 
 ## Оценка результатов
 
