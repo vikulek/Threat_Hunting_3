@@ -37,22 +37,22 @@ Cloud.
     аутентификации. Вводим имя бакета в соответствующее поле и
     сохраняем.
 
-    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_1.jpg)
+    ![](screens/photo_1.jpg)
 
 4.  Настроем привязку данных
 
-    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_2.jpg)
+    ![](screens/photo_2.jpg)
 
 5.  Опишем состав и формат входных данных
 
-    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_3.jpg)
+    ![](screens/photo_3.jpg)
 
-    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_4.jpg)
+    ![](screens/photo_4.jpg)
 
 6.  Если настройки сделаны правильно, то можно попробовать сделать
     аналитический запрос и посмотреть результат
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_5.jpg)
+    ![](screens/photo_5.jpg)
 
 ### Провести анализ данных
 
@@ -60,15 +60,33 @@ Cloud.
     принадлежащих интервалу \[12-14\]. Определите количество хостов
     внутренней сети, представленных в датасете.
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_6.jpg)
+    ![](screens/photo_6.jpg)
 
-2.  Определите суммарный объем исходящего трафика
+``` r
+sprintf("Задание выполнено!")
+```
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_7.jpg)
+    [1] "Задание выполнено!"
 
-3.  пределите суммарный объем входящего трафика
+1.  Определите суммарный объем исходящего трафика
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_8.jpg)
+![](screens/photo_7.jpg)
+
+``` r
+sprintf("Задание выполнено!")
+```
+
+    [1] "Задание выполнено!"
+
+1.  пределите суммарный объем входящего трафика
+
+![](screens/photo_8.jpg)
+
+``` r
+sprintf("Задание выполнено!")
+```
+
+    [1] "Задание выполнено!"
 
 ## Оценка результатов
 
