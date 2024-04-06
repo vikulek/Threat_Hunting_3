@@ -41,18 +41,18 @@ Cloud.
 
 4.  Настроем привязку данных
 
-    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_2.png)
+    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_2.jpg)
 
 5.  Опишем состав и формат входных данных
 
-    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_3.png)
+    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_3.jpg)
 
-    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_4.png)
+    ![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_4.jpg)
 
 6.  Если настройки сделаны правильно, то можно попробовать сделать
     аналитический запрос и посмотреть результат
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_5.png)
+![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_5.jpg)
 
 ### Провести анализ данных
 
@@ -60,15 +60,15 @@ Cloud.
     принадлежащих интервалу \[12-14\]. Определите количество хостов
     внутренней сети, представленных в датасете.
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_6.png)
+![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_6.jpg)
 
 2.  Определите суммарный объем исходящего трафика
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_7.png)
+![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_7.jpg)
 
 3.  пределите суммарный объем входящего трафика
 
-![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_8.png)
+![](https://github.com/vikulek/Threat_Hunting_3/blob/master/lab_1/screens/photo_8.jpg)
 
 ## Оценка результатов
 
